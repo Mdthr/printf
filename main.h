@@ -26,6 +26,7 @@
 struct fmt
 {
 	char fmt;
+
 	nt(*fn)(va_list, char[], int, int, int, int);
 };
 
