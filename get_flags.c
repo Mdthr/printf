@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#include<main.h.>
-=======
 #include "main.h"
 
 /**
@@ -36,4 +33,3 @@ int get_flags(const char *format, int *i)
 
 	return (flags);
 }
->>>>>>> d8bd941ef7aa2ff5e770b95aafe028862944da28
